@@ -1,0 +1,10 @@
+{
+    "image": "rian123r/openjdk", //<usuario>/<Nome da imagem>
+    "customizations": {
+        "vscode": {
+            "extensions": [ // Lista de extensões do vscode que você quer instalar no container
+                "vscjava.vscode-java-pack"
+            ]
+        }
+    }
+}
