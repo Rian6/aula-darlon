@@ -1,5 +1,5 @@
-GIT_TOKEN=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
-GIT_NAME=rian
-GIT_EMAIL=rian._santos@hotmail.com
-GIT_LOGIN=Rian6
-GIT_ASKPASS=/home/rian/aula-darlon/git_password.sh
+export GIT_TOKEN=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
+export GIT_NAME=rian
+export GIT_EMAIL=rian._santos@hotmail.com
+export GIT_LOGIN=Rian6
+export GIT_ASKPASS=/home/rian/aula-darlon/git_password.sh
